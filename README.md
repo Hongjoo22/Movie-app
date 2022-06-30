@@ -8,3 +8,4 @@ https://nomadcoders.co/react-for-beginners/lobby
 
 # 배포 링크
 https://hongjoo22.github.io/Movie-app/
+![image](https://user-images.githubusercontent.com/65024497/176635168-83ff09e2-1a94-4c1c-b23d-0a92d8eb595e.png)
